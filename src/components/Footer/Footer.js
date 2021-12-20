@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Thank you for visiting my portfolio :) Feel free to contact me!</Slogan>
+          <Slogan>Thank you for visiting my portfolio :) Please feel free to contact me!</Slogan>
         </CompanyContainer>
         <SocialContainer>
         <SocialIcons href="mailto:prithee.roy@mail.utoronto.ca">
