@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/deeplearning.jpeg',
       tags: ['Python', 'Tensorflow', 'Keras', 'Numpy'],
       //ADD LINKS HERE WHEN FINISHED
-    source: 'https://google.com',
+    source: 'https://github.com/pritheeroy/deep_learning_model_number_prediction',
     visit: 'https://google.com',
     id: 0,
   },
@@ -14,9 +14,9 @@ export const projects = [
     description:"Developed and implemented complex and intuitive recursive graph/search algorithms in Python that recommend anime based on a user’s MyAnimeList account and personal inputs. Built a Flask Server that uses MyAnimeList API calls and web scraping to aggregate input datasets.",
     image: '/images/animeatlas.gif',
     tags: ['Python', 'Flask', 'BeautifulSoup', 'Pandas'],
-    source: 'https://google.com',
+    source: 'https://github.com/pritheeroy/anime_atlas',
     visit: 'https://google.com',
-    id: 1,
+    id: 2,
   },
   {
     title: 'JChef',
@@ -25,15 +25,15 @@ export const projects = [
       tags: ['Java', 'Android'],
     source: 'https://github.com/CSC207-UofT/course-project-gries-fan-club',
     visit: 'https://google.com',
-    id: 2,
+    id: 1,
   },
   {
-    title: 'Blackout',
-    description: "Developed a web application using the MERN stack, designed to help users keep track of how many drinks they’ve had by tracking the drinks consumed, quantity consumed, and date consumed.",
-    image: '/images/4.jpg',
-    tags: ['MongoDB', 'Express.js', 'React.js', 'Node.js'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'My Personal Portfolio',
+    description: "Developed a visually interactive web application to display my personal portfolio using JavaScript (react.js) and HTML/CSS. ",
+    image: '/images/websitepic.png',
+    tags: ['JavaScript', 'HTML', 'CSS', 'React.js'],
+    source: 'https://github.com/pritheeroy/portfolio_website-prithee',
+    visit: 'https://pritheeroy.ca/',
     id: 3,
   },
   {
@@ -46,13 +46,13 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'My Personal Portfolio',
-    description: "Collaborated with peers to develop a complex algorithm that calculates a user's CO2 impact based on their meat consumption per week using object oriented programming in Python and modules such as numpy, pandas, and matplotlib.",
-    image: '/images/websitepic.png',
-    tags: ['JavaScript', 'HTML', 'CSS', 'React.js'],
-    source: 'https://github.com/pritheeroy/MeatMonitor',
+    title: 'Blackout',
+    description: "Developed a web application using the MERN stack, designed to help users keep track of how many drinks they’ve had by tracking the drinks consumed, quantity consumed, and date consumed.",
+    image: '/images/4.jpg',
+    tags: ['MongoDB', 'Express.js', 'React.js', 'Node.js'],
+    source: 'https://github.com/pritheeroy/mern-blackout',
     visit: 'https://google.com',
-    id: 4,
+    id: 5,
   }
 ];
 
