@@ -12,7 +12,7 @@ const Hero = () => (
         Welcome to my personal portfolio
       </SectionTitle>
       <SectionText>
-        I'm a software engineer based in Toronto. I have profound passion in full-stack software development, deep learning, artificial intelligence, and everything in between.
+        I'm a software engineer based in Toronto, Canada. I have profound passion in full-stack software development, deep learning, artificial intelligence, and everything in between.
       </SectionText>
       <Button onClick={() => window.location = "mailto:prithee.roy@mail.utoronto.ca"}>Say Hello</Button>
     </LeftSection>
