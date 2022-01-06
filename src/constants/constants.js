@@ -33,7 +33,7 @@ export const projects = [
     image: '/images/animeatlas.gif',
     tags: ['Python', 'Flask', 'BeautifulSoup', 'Pandas'],
     source: 'https://github.com/pritheeroy/anime_atlas',
-    visit: 'https://google.com',
+    visit: 'https://github.com/pritheeroy/anime_atlas'',
     id: 3,
   },
   {
@@ -42,7 +42,7 @@ export const projects = [
     image: '/images/meatmonitor.png',
     tags: ['Python', 'NumPy', 'Pandas', 'Matplotlib'],
     source: 'https://github.com/pritheeroy/MeatMonitor',
-    visit: 'https://google.com',
+    visit: 'https://github.com/pritheeroy/MeatMonitor',
     id: 4,
   },
   {
@@ -51,7 +51,7 @@ export const projects = [
     image: '/images/4.jpg',
     tags: ['MongoDB', 'Express.js', 'React.js', 'Node.js'],
     source: 'https://github.com/pritheeroy/mern-blackout',
-    visit: 'https://google.com',
+    visit: 'https://github.com/pritheeroy/mern-blackout',
     id: 5,
   }
 ];
