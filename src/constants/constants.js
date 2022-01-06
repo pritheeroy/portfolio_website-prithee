@@ -6,7 +6,7 @@ export const projects = [
       tags: ['Python', 'Tensorflow', 'Keras', 'Numpy'],
       //ADD LINKS HERE WHEN FINISHED
     source: 'https://github.com/pritheeroy/deep_learning_model_number_prediction',
-    visit: 'https://google.com',
+    visit: 'https://youtu.be/46L8BykAIoo',
     id: 0,
   },
   {
