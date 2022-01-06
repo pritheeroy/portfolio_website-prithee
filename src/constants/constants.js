@@ -24,7 +24,7 @@ export const projects = [
       image: '/images/jchef.png',
       tags: ['Java', 'Android'],
     source: 'https://github.com/CSC207-UofT/course-project-gries-fan-club',
-    visit: 'https://google.com',
+    visit: 'https://youtu.be/ve7iC90q1pI',
     id: 1,
   },
   {
