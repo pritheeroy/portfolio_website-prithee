@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Deep Learning Framework for Number Detection',
-    description: "Researched and implemented Deep Learning model which accurately predicts handwritten numbers. Pixels are supplied from a multidimensional array through a neural network that has 94% accuracy predicting numbers. Tensorflow and Keras was used extensively to build the model.",
+    description: "Researched and implemented Deep Learning model which accurately predicts handwritten numbers. Pixels are supplied from a multidimensional array through a neural network that has 98% accuracy predicting numbers. Tensorflow and Keras was used extensively to build the model. PyGame was used to develop the interactive portion.",
       image: '/images/deeplearning.jpeg',
       tags: ['Python', 'Tensorflow', 'Keras', 'Numpy'],
       //ADD LINKS HERE WHEN FINISHED
