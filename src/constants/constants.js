@@ -16,7 +16,7 @@ export const projects = [
     tags: ['JavaScript', 'HTML', 'CSS', 'React.js'],
     source: 'https://github.com/pritheeroy/portfolio_website-prithee',
     visit: 'https://pritheeroy.ca/',
-    id: 3,
+    id: 1,
   },
   {
     title: 'JChef',
@@ -25,7 +25,7 @@ export const projects = [
       tags: ['Java', 'Android'],
     source: 'https://github.com/CSC207-UofT/course-project-gries-fan-club',
     visit: 'https://youtu.be/ve7iC90q1pI',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Anime Atlas',
@@ -34,7 +34,7 @@ export const projects = [
     tags: ['Python', 'Flask', 'BeautifulSoup', 'Pandas'],
     source: 'https://github.com/pritheeroy/anime_atlas',
     visit: 'https://google.com',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Meat Monitor',
