@@ -33,7 +33,7 @@ export const projects = [
     image: '/images/animeatlas.gif',
     tags: ['Python', 'Flask', 'BeautifulSoup', 'Pandas'],
     source: 'https://github.com/pritheeroy/anime_atlas',
-    visit: 'https://github.com/pritheeroy/anime_atlas'',
+    visit: 'https://github.com/pritheeroy/anime_atlas',
     id: 3,
   },
   {
