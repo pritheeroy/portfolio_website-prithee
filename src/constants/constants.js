@@ -42,7 +42,7 @@ export const projects = [
     image: '/images/meatmonitor.png',
     tags: ['Python', 'NumPy', 'Pandas', 'Matplotlib'],
     source: 'https://github.com/pritheeroy/MeatMonitor',
-    visit: 'https://github.com/pritheeroy/MeatMonitor',
+    visit: 'https://youtu.be/vD4PlK6P8d4',
     id: 4,
   },
   {
