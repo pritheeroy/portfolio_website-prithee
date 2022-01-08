@@ -1,13 +1,22 @@
 export const projects = [
   {
-    title: 'Deep Learning Framework for Number Detection',
-    description: "Researched and implemented Deep Learning model which accurately predicts handwritten numbers. Pixels are supplied from a multidimensional array through a neural network that has 98% accuracy predicting numbers. Tensorflow and Keras was used extensively to build the model. PyGame was used to develop the interactive portion.",
+    title: 'Machine Learning Framework for Number Detection',
+    description: "Researched and implemented Machine Learning model which accurately predicts handwritten numbers. Pixels are supplied from a multidimensional array through a neural network that has 98% accuracy predicting numbers. Tensorflow and Keras was used extensively to build the model. PyGame was used to develop the interactive portion.",
       image: '/images/deeplearning.jpeg',
-      tags: ['Python', 'Tensorflow', 'Keras', 'Numpy'],
+      tags: ['Python', 'Tensorflow', 'Keras', 'NumPy'],
       //ADD LINKS HERE WHEN FINISHED
     source: 'https://github.com/pritheeroy/deep_learning_model_number_prediction',
     visit: 'https://youtu.be/46L8BykAIoo',
     id: 0,
+  },
+  {
+    title: 'Deep Learning Stock Prediction',
+    description:"Researched and implemented a LSTM (Long short-term memory) artificial neural network architecture which predicts the future price of a stock based on historical data. The neural network was architectured using LSTM and Dense layers, and is compiled with the adam optimizer.",
+    image: '/images/stock.png',
+    tags: ['Python', 'Tensorflow', 'Keras', 'NumPy'],
+    source: 'https://github.com/pritheeroy/deep_learning_stock_prediction',
+    visit: 'https://docs.google.com/presentation/d/1vU3GT7GSR4Lp6siPaiZbmYII-EjyMSGYHcvQa3_ELLM/edit?usp=sharing',
+    id: 1,
   },
   {
     title: 'My Personal Portfolio',
@@ -16,7 +25,7 @@ export const projects = [
     tags: ['JavaScript', 'HTML', 'CSS', 'React.js'],
     source: 'https://github.com/pritheeroy/portfolio_website-prithee',
     visit: 'https://pritheeroy.ca/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'JChef',
@@ -25,15 +34,6 @@ export const projects = [
       tags: ['Java', 'Android'],
     source: 'https://github.com/CSC207-UofT/course-project-gries-fan-club',
     visit: 'https://youtu.be/ve7iC90q1pI',
-    id: 2,
-  },
-  {
-    title: 'Anime Atlas',
-    description:"Developed and implemented complex and intuitive recursive graph/search algorithms in Python that recommend anime based on a user’s MyAnimeList account and personal inputs. Built a Flask Server that uses MyAnimeList API calls and web scraping to aggregate input datasets.",
-    image: '/images/animeatlas.gif',
-    tags: ['Python', 'Flask', 'BeautifulSoup', 'Pandas'],
-    source: 'https://github.com/pritheeroy/anime_atlas',
-    visit: 'https://github.com/pritheeroy/anime_atlas',
     id: 3,
   },
   {
