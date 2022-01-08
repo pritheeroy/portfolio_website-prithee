@@ -48,7 +48,7 @@ export const projects = [
   {
     title: 'Blackout',
     description: "Developed a web application using the MERN stack, designed to help users keep track of how many drinks they’ve had by tracking the drinks consumed, quantity consumed, and date consumed.",
-    image: '/images/4.jpg',
+    image: '/images/mern.jpeg',
     tags: ['MongoDB', 'Express.js', 'React.js', 'Node.js'],
     source: 'https://github.com/pritheeroy/mern-blackout',
     visit: 'https://github.com/pritheeroy/mern-blackout',
