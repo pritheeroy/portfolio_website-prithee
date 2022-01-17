@@ -12,7 +12,7 @@ const AboutMe = () =>  (
     <Img src="/images/profilepic.jpg"/>
     I am a <b>Computer Science</b> and <b>Statistics</b> student at the <b>University of Toronto</b>, specializing in Machine Learning and Artificial Intelligence. I am currently working in the Faculty of Nursing at the <b>University of Toronto</b> as a <b>Python Automation Engineer</b>.
     <br/><br/>  
-    I'm passionate about solving complex problems using data, hence my interest in Machine Learning. Currently, I am spending lots of time researching more about deep learning and neural nets as well as DevOps. In my spare time, I like to listen to music and watch anime.
+    I'm passionate about solving complex problems using data, hence my interest in Machine Learning. Currently, I am spending lots of time researching more about deep learning and neural nets as well as DevOps development. In my spare time, I like to listen to music and watch anime.
     <br/> <br/>  
     Here are some languages and technologies I have experience with:
     </SectionText>
