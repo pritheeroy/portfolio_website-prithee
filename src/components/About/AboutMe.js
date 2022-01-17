@@ -1,5 +1,6 @@
 import React from 'react';
-import { DiPython, DiReact, DiAndroid, DiJenkins } from 'react-icons/di';
+import { DiPython, DiReact, DiAndroid} from 'react-icons/di';
+import { SiDocker } from 'react-icons/si';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle, Img} from './AboutMeStyles';
 
@@ -50,7 +51,7 @@ const AboutMe = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <DiJenkins size="3rem" />
+          <SiDocker size="3rem" />
         </picture>
         <ListContainer>
         <ListTitle>DevOps</ListTitle>
