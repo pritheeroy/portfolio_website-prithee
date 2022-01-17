@@ -14,7 +14,7 @@ const AboutMe = () =>  (
     <br/><br/>  
     I'm passionate about solving complex problems using data, hence my interest in Machine Learning. Currently, I am spending lots of time researching more about deep learning and neural nets. In my spare time, I like to listen to music and watch anime.
     <br/> <br/>  
-    Here are some technologies I have experience with:
+    Here are some languages and technologies I have experience with:
     </SectionText>
     <List>
       <ListItem>
@@ -57,8 +57,9 @@ const AboutMe = () =>  (
         <ListTitle>DevOps</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            Linux, Git, Github, Jenkins <br />
-            Ansible, Docker, Kubernetes
+            Linux, Git, Github <br />
+            Jenkins, Ansible, <br />
+            Docker, Kubernetes
           </ListParagraph>
         </ListContainer>
       </ListItem>
