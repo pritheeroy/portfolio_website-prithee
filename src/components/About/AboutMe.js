@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiPython, DiReact, DiAndroid, DiJenkins } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle, Img} from './AboutMeStyles';
 
@@ -18,7 +18,7 @@ const AboutMe = () =>  (
     <List>
       <ListItem>
         <picture>
-          <DiFirebase size="3rem" />
+          <DiPython size="3rem" />
         </picture>
         <ListContainer>
         <ListTitle>Back-End</ListTitle>
@@ -50,7 +50,20 @@ const AboutMe = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size="3rem" />
+          <DiJenkins size="3rem" />
+        </picture>
+        <ListContainer>
+        <ListTitle>DevOps</ListTitle>
+          <ListParagraph>
+            Experiece with <br />
+            Linux, Git, Github, Jenkins <br />
+            Ansible, Docker, Kubernetes
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiAndroid size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
