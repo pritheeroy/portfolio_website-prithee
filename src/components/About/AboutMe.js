@@ -32,7 +32,7 @@ const AboutMe = () =>  (
             Ruby, <br />
             Node.js,
             C, <br />
-            MongoDB, SQLite, <br />
+            MongoDB, SQLite <br />
            
           </ListParagraph>
         </ListContainer>
