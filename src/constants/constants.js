@@ -38,7 +38,7 @@ export const projects = [
   },
   {
     title: 'Meat Monitor',
-    description: "Collaborated with peers to develop a complex algorithm that calculates a user's CO2 impact based on their meat consumption per week using object oriented programming in Python and modules such as numpy, pandas, and matplotlib.",
+    description: "Developed a Python application that uses complex algorithms to calculate a user’s CO2 impact based on their meat consumption per week using object oriented programming, using modules such as NumPy, Pandas, and Matplotlib.",
     image: '/images/meatmonitor.png',
     tags: ['Python', 'NumPy', 'Pandas', 'Matplotlib'],
     source: 'https://github.com/pritheeroy/MeatMonitor',
