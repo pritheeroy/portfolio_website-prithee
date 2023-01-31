@@ -1,8 +1,12 @@
-import React from 'react';
+import React from "react";
 
-import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import Button from '../../styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
+import {
+  Section,
+  SectionText,
+  SectionTitle,
+} from "../../styles/GlobalComponents";
+import Button from "../../styles/GlobalComponents/Button";
+import { LeftSection } from "./HeroStyles";
 
 const Hero = () => (
   <Section row nopadding>
@@ -12,9 +16,17 @@ const Hero = () => (
         Welcome to my personal portfolio
       </SectionTitle>
       <SectionText>
-        I'm a software engineer based in Toronto, Canada. I have profound passion in full-stack software development, DevOps, deep learning, artificial intelligence, and everything in between.
+        I'm a software engineer based in Toronto, Canada. I have profound
+        passion in full-stack software development, DevOps, Machine Learning,
+        artificial intelligence, and everything in between.
       </SectionText>
-      <Button onClick={() => window.location = "mailto:prithee.roy@mail.utoronto.ca"}>Say Hello</Button>
+      <Button
+        onClick={() =>
+          (window.location = "mailto:prithee.roy@mail.utoronto.ca")
+        }
+      >
+        Say Hello
+      </Button>
     </LeftSection>
   </Section>
 );

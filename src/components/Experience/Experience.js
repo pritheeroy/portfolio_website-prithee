@@ -13,7 +13,19 @@ const data = [
     employer: "Borealis AI",
     date: "JAN 2023 - PRESENT",
     description: [
-      "Machine Learning Engineer Intern at Borealis AI,a research institute at RBC,building machine learning‐based software solutions for solving important problems as well as optimizing algorithms and prototypical solutions for efficient implementation.",
+      "Machine Learning Engineer Intern at Borealis AI, a research institute at RBC,building machine learning‐based software solutions for solving important problems as well as optimizing algorithms and prototypical solutions for efficient implementation.",
+    ],
+  },
+  {
+    role: "Software Engineer Intern",
+    employer: "Manulife",
+    date: "MAY 2022 - AUG 2022",
+    description: [
+      "Collaborated with a team of quantitative analysts to maintain and support development of quantitative investment strategy system (QISS) in Java (Spring Boot Framework) to support asset management.",
+      "Developed 10+ features for QISS microsite, using Java and React.js, which increased quantitive analyst efficiency by 25%.",
+      "Wrote SQL scripts for data reconciliation project to validate migrated data and created template used by 10+ engineers.",
+      "» Tested 100+ API endpoints using Postman as a part of the annual penetration test.",
+      "» Authored technical documentation to streamline on-boarding process, increasing productivity by 30% on average.",
     ],
   },
   {
