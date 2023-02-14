@@ -13,7 +13,8 @@ const data = [
     employer: "Borealis AI",
     date: "JAN 2023 - PRESENT",
     description: [
-      "Machine Learning Engineer Intern at Borealis AI, a research institute at RBC,building machine learning‐based software solutions for solving important problems as well as optimizing algorithms and prototypical solutions for efficient implementation.",
+      "Machine Learning Engineer Intern on the ML Infrastructure team at Borealis AI, a research institute at RBC, working on build-ing machine learning-based software solutions for solving important problems as well as optimizing algorithms and prototypical solutions for efficient implementation.",
+      "Working with the following languages/technologies: Python, AWS, Bash, Jenkins, Docker, Kubernetes, Kubeflow, OpenShift, UrbanCode Deploy, Kibana, SLURM",
     ],
   },
   {

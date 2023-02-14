@@ -21,9 +21,9 @@ const AboutMe = () => (
     <SectionDivider divider />
     <SectionTitle>About Me</SectionTitle>
     <SectionText>
-      <Img src="/images/profilepic.jpg" />I am a <b>Computer Science</b> and{" "}
-      <b>Statistics</b> student at the <b>University of Toronto</b>,
-      specializing in Machine Learning and Artificial Intelligence.
+      <Img src="/images/profilepic.jpg" />I am a <b>Computer Science</b> student
+      at the <b>University of Toronto</b>, specializing in Machine Learning and
+      Artificial Intelligence.
       <br />
       <br />
       I'm passionate about solving complex problems using data, hence my
@@ -45,7 +45,7 @@ const AboutMe = () => (
             Experience with <br />
             Python, Java, R, <br />
             SQL, Ruby, <br />
-            Node.js, C, <br />
+            Bash, C, <br />
             MongoDB, SQLite <br />
           </ListParagraph>
         </ListContainer>
@@ -58,7 +58,7 @@ const AboutMe = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            Javascript (React.js, Angular.js), <br />
+            Javascript (React.js), <br />
             HTML/CSS
           </ListParagraph>
         </ListContainer>
